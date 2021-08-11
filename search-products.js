@@ -5,7 +5,7 @@ const products = [
     { name: 'bashundhara binding paper', price: 100 },
     { name: 'lg smart phone', price: 22000 },
     { name: 'old granny land phone', price: 1000 },
-]
+];
 
 function searchProduct(products, searchText) {
     const matched =[];
